@@ -39,6 +39,13 @@ function createSphere() {
   return newSphere
 }
 
-function createSpheres() {
-  // TODO: implement me!
+function createSpheres(sphere) {
+  return sphere
+  
+}
+
+function addBobAnimationToElement() {
+  
+}
+  
 }
