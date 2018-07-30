@@ -41,4 +41,11 @@ function createSphere() {
 
 function createSpheres(sphere) {
   return sphere
+  
+}
+
+function addBobAnimationToElement() {
+  
+}
+  
 }
