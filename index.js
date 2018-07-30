@@ -39,6 +39,6 @@ function createSphere() {
   return newSphere
 }
 
-function createSpheres() {
-  return createSpheres
+function createSpheres(sphere) {
+  return sphere
 }
